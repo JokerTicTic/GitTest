@@ -19,6 +19,7 @@
   // Do any additional setup after loading the view, typically from a nib.
   NSLog(@"first version");
   NSLog(@"second version");
+  NSLog(@"third version");
 }
 
 - (void)didReceiveMemoryWarning {
