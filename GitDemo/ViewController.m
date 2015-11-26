@@ -16,17 +16,6 @@
 
 - (void)viewDidLoad {
   [super viewDidLoad];
-  // Do any additional setup after loading the view, typically from a nib.
-  NSLog(@"first version");sfsfsdfsd
-  NSLog(@"second version");
-  NSLog(@"third version");
-  NSLog(@"3");
-  NSLog(@"3");
-  NSLog(@"3");nd version");
-  NSLog(@"third version");
-  NSLog(@"3");
-  NSLog(@"3");
-  NSLog(@"3");
 }
 
 - (void)didReceiveMemoryWarning {
