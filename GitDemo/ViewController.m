@@ -20,6 +20,7 @@
   NSLog(@"first version");
   NSLog(@"second version");
   NSLog(@"third version");
+  NSLog(@"3");
 }
 
 - (void)didReceiveMemoryWarning {
